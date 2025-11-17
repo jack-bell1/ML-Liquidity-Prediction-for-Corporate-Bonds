@@ -11,7 +11,7 @@ Run data_extraction.py to get the data, then run y_declaration to derive target 
 
 
 
-## EDA (Exploratory Data Analysis
+## EDA (Exploratory Data Analysis)
 EDA is contained in the EDA directory. 
 
 Currently exploring the target variable and deciding on further cleaning logic before adding features for the model
